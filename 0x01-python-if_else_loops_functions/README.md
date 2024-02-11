@@ -6,3 +6,4 @@ Required tools
 [Learn to Program](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
 [Learn to Program 2 : Looping](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
 [Pycodestyle – Style Guide for Python Code](https://pypi.org/project/pycodestyle/)
+[ords](https://docs.python.org/3.4/library/functions.html?highlight=ord#ord)

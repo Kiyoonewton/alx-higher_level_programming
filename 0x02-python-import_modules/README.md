@@ -4,6 +4,7 @@ Important Marterials to use to study
 [Command Line Arguments](https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments)
 
 Tasks 📃
+
 0. How Import a simple function from a simple file
 
 0-add.py: This is a Python program that imports the function def add(a, b): from the file add_0.py and prints the result of the addition 1 + 2 = 3.
